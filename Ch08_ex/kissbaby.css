@@ -116,7 +116,7 @@ img, object, embed, video {
 }
 #sidebar {
 	clear: none;
-	float: righter;
+	float: right;
 	margin-left: 0;
 	width: 35%;
 	display: block;
@@ -169,8 +169,8 @@ img, object, embed, video {
 	display: block;
 }
 #sidebar {
-	clear: both;
-	float: left;
+	clear: none;
+	float: right;
 	margin-left: 0;
 	width: 30%;
 	display: block;
